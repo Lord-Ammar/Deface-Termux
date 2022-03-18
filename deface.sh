@@ -125,6 +125,6 @@ fi
 if [ $Next = 8 ] || [ $Next = delapan ] 
 then 
 cd Data
-bash create.sh
+bash create_enc.sh
 menu 
 fi
