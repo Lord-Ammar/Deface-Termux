@@ -117,7 +117,7 @@ menu
 fi 
 if [ $Next = 8 ] || [ $Next = delapan ] 
 then 
-cd data
+cd Data
 bash create.sh
 menu 
 fi
