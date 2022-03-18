@@ -1,3 +1,9 @@
+#Ingat Dipelajari Jan Di Decode
+#Support My Youtube Channel:
+#https://bit.ly/AmmarExecuted
+#Save My Contact:
+#https://wa.me/6288229683561 ✓
+
 blue="\033[34;1m"
 green="\033[32;1m"
 purple="\033[35;1m"
@@ -13,6 +19,7 @@ pk="http://totemafrica.com"
 pl="http://ziady.com"
 i="http://whadiz.com"
 
+#Buat Tanya Login Lagi Apa Enggak
 menu() {
 read -p "Mau Deface Lagi? (y/n): " lgi
 if [ $lgi = y ] || [ $lgi = Y ]
